@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JordanH954
-- 👀 I’m interested in software engineering.
+- 👀 I’m interested in software engineering and becoming a full stack developer.
 - 🌱 I’m currently learning The Odin Project.
 - 💞️ I’m looking to collaborate on anything that will help me build the foundations to become a great software engineer.
 - 📫 How to reach me just ask for my email or phone number.
